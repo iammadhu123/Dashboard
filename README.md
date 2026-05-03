@@ -32,10 +32,10 @@ Open http://127.0.0.1:8000
 ## Rebranding for a different college
 
 ```bash
-python rebrand.py "Your College Name" "YCN"
+python rebrand.py "Babu Banarasi Das University" "YCN"
 ```
 
-## Deploy to Render
+## Deploy on Render
 
 1. Push to GitHub
 2. Go to render.com → New Web Service → connect repo

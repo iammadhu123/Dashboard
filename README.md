@@ -8,7 +8,7 @@ A full-stack Django project built as a 7-phase teaching project for 3rd year B.T
 ## Quick Start
 
 ```bash
-# 1. Create and activate virtual environment
+# 1. Create and activate virtual env
 python -m venv venv
 source venv/bin/activate        # Mac/Linux
 venv\Scripts\activate           # Windows
